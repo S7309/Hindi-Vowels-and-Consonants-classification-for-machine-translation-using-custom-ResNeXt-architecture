@@ -1,3 +1,1 @@
-This model is trained on images which contains the tamil language. The dataset is downloaded from kaggle
 
-https://storage.googleapis.com/kaggle-competitions-data/kaggle/14708/456271/all.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1561988760&Signature=F7Bx%2FhS2HdkxrEurzaXJQnGPD4YLoQjKjBalEPVuqPb8nIWFLUOrp8Z6RPGbD3PAiaiV%2BE5taOeqRiZqtlLcWbURWwuDBNHrOhFU7yxvpO7w1SVuQ2veI%2FZ2UXM3U3%2BcJNPA8QA%2BGUlI6EaPFzm%2F6rMcpY4uSWHO6GaMLKS0VgUR48qIxUKn6E%2Bvjx8VIZoYc9%2BQTX8pIqMH19VOOJPU9whvh3tDRPAKBwXFAlvhpwYLy2KMVo1nrQZi8Ux07XllnH5Mw1qYkmKAYoyimwUiBDoJi%2FtdyzzraJCw5e5ClIv0qehvFiSro1g1B90ZNuikUfxXlIbEvQOADe6AoyLj3g%3D%3D&response-content-disposition=attachment%3B+filename%3Dpadhai-tamil-vowel-consonant-classification.zip
